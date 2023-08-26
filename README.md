@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -69,6 +70,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# shoppinn-Ecommerce_website
+An e-commerce platform developed using React, providing users with a modern and user-friendly online shopping destination
+>>>>>>> origin/master
 =======
 # shoppinn-Ecommerce_website
 An e-commerce platform developed using React, providing users with a modern and user-friendly online shopping destination
